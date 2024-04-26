@@ -1,0 +1,25 @@
+# Dinge
+Auto
+Computer
+Bildschirm
+Laptop
+Handy
+Stuhl
+
+
+# Tiere
+Tiger
+Löwe
+Elefant
+Nashorn
+Giraffe
+Bär
+
+ 
+ 
+# Namen
+Michael
+Tim
+Merten
+Florian
+Clemens

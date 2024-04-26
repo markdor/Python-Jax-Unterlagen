@@ -1,0 +1,10 @@
+# Name, Punkte, Level
+Matze, 1000, 7
+Peter, 985, 6
+ÄÖÜßöäü, 777, 5
+
+# Fehlender Level
+Peter, 985,
+
+# Falsches Format des Levels
+Peter, 985, A6

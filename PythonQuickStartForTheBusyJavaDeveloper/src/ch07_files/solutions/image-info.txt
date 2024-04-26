@@ -1,0 +1,6 @@
+This is the first line
+This is the second line
+Fun with multiline strings
+This picture is brilliant
+ADDITIONAL LINE-1
+ADDITIONAL LINE-2

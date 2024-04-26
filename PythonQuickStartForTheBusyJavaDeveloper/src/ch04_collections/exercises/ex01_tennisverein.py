@@ -1,0 +1,3 @@
+mitglieder_liste = []
+
+# TODO
